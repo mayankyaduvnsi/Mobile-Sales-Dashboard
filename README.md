@@ -70,7 +70,7 @@ This dashboard converts raw sales data into actionable business insights using p
 
 ## 📷 Dashboard Preview
 
-> 
+> (https://github.com/mayankyaduvnsi/Mobile-Sales-Dashboard/blob/main/Dashboard.png)
 
 ---
 
