@@ -71,8 +71,8 @@ This dashboard converts raw sales data into actionable business insights using p
 ## 📷 Dashboard Preview
 
 ![Dashboard Preview](https://github.com/mayankyaduvnsi/Mobile-Sales-Dashboard/blob/main/Dashboard.png)
-![Dashboard Preview](https://github.com/mayankyaduvnsi/Mobile-Sales-Dashboard/blob/main/MTD.png)
-![Dashboard Preview](https://github.com/mayankyaduvnsi/Mobile-Sales-Dashboard/blob/main/Same%20Period%20Last%20Year.png)
+![MTD Preview](https://github.com/mayankyaduvnsi/Mobile-Sales-Dashboard/blob/main/MTD.png)
+![Same Period Last Year Preview](https://github.com/mayankyaduvnsi/Mobile-Sales-Dashboard/blob/main/Same%20Period%20Last%20Year.png)
 
 ---
 
